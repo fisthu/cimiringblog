@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fisthu blogs</title>
+    <link>https://fisthu.github.io/cimiring-blog/</link>
+    <description>Recent content on fisthu blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 29 Feb 2020 22:22:00 +0700</lastBuildDate>
+    
+	<atom:link href="https://fisthu.github.io/cimiring-blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://fisthu.github.io/cimiring-blog/contact/</link>
+      <pubDate>Sat, 29 Feb 2020 22:22:00 +0700</pubDate>
+      
+      <guid>https://fisthu.github.io/cimiring-blog/contact/</guid>
+      <description>You can visit me at &amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://fisthu.github.io/cimiring-blog/projects/</link>
+      <pubDate>Sat, 29 Feb 2020 22:20:17 +0700</pubDate>
+      
+      <guid>https://fisthu.github.io/cimiring-blog/projects/</guid>
+      <description>My Projects </description>
+    </item>
+    
+    <item>
+      <title>Try hugo</title>
+      <link>https://fisthu.github.io/cimiring-blog/posts/hello-world/</link>
+      <pubDate>Sat, 29 Feb 2020 22:16:34 +0700</pubDate>
+      
+      <guid>https://fisthu.github.io/cimiring-blog/posts/hello-world/</guid>
+      <description>Hello Hugo </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://fisthu.github.io/cimiring-blog/about/</link>
+      <pubDate>Sat, 29 Feb 2020 19:14:29 +0700</pubDate>
+      
+      <guid>https://fisthu.github.io/cimiring-blog/about/</guid>
+      <description>Hi, this is about page </description>
+    </item>
+    
+  </channel>
+</rss>
