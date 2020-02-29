@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fisthu blogs</title>
-    <link>https://fisthu.github.io/cimiring-blog/</link>
+    <link>https://fisthu.github.io/cimiringblog/</link>
     <description>Recent content on fisthu blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 29 Feb 2020 22:22:00 +0700</lastBuildDate>
     
-	<atom:link href="https://fisthu.github.io/cimiring-blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fisthu.github.io/cimiringblog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact</title>
-      <link>https://fisthu.github.io/cimiring-blog/contact/</link>
+      <link>https://fisthu.github.io/cimiringblog/contact/</link>
       <pubDate>Sat, 29 Feb 2020 22:22:00 +0700</pubDate>
       
-      <guid>https://fisthu.github.io/cimiring-blog/contact/</guid>
+      <guid>https://fisthu.github.io/cimiringblog/contact/</guid>
       <description>You can visit me at &amp;hellip;.</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://fisthu.github.io/cimiring-blog/projects/</link>
+      <link>https://fisthu.github.io/cimiringblog/projects/</link>
       <pubDate>Sat, 29 Feb 2020 22:20:17 +0700</pubDate>
       
-      <guid>https://fisthu.github.io/cimiring-blog/projects/</guid>
+      <guid>https://fisthu.github.io/cimiringblog/projects/</guid>
       <description>My Projects </description>
     </item>
     
     <item>
       <title>Try hugo</title>
-      <link>https://fisthu.github.io/cimiring-blog/posts/hello-world/</link>
+      <link>https://fisthu.github.io/cimiringblog/posts/hello-world/</link>
       <pubDate>Sat, 29 Feb 2020 22:16:34 +0700</pubDate>
       
-      <guid>https://fisthu.github.io/cimiring-blog/posts/hello-world/</guid>
+      <guid>https://fisthu.github.io/cimiringblog/posts/hello-world/</guid>
       <description>Hello Hugo </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://fisthu.github.io/cimiring-blog/about/</link>
+      <link>https://fisthu.github.io/cimiringblog/about/</link>
       <pubDate>Sat, 29 Feb 2020 19:14:29 +0700</pubDate>
       
-      <guid>https://fisthu.github.io/cimiring-blog/about/</guid>
+      <guid>https://fisthu.github.io/cimiringblog/about/</guid>
       <description>Hi, this is about page </description>
     </item>
     
